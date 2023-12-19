@@ -6,9 +6,8 @@ This Android application demonstrates an image switcher with previous and next b
 
 
 ## Screenshots
-imageSwitcher1.png
 ![Image Switcher Demo](imageSwitcher1.png)
-![Image Switcher Demo](path_to_your_image.png)
+![Image Switcher Demo](imageSwitcher2.png)
 
 ## Features:
 - Image switcher functionality
